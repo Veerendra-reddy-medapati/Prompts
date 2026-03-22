@@ -1,0 +1,45 @@
+
+body {
+  font-family: Arial;
+  margin: 0;
+  background: #111;
+  color: white;
+}
+
+header {
+  display: flex;
+  gap: 10px;
+  padding: 15px;
+  background: #222;
+}
+
+input, select {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+}
+
+#gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+  padding: 10px;
+}
+
+.card {
+  background: #222;
+  padding: 5px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.ad {
+  background: #444;
+  padding: 20px;
+  text-align: center;
+}

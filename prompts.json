@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "men",
+    "image": "https://picsum.photos/300/300?1",
+    "prompt": "A stylish man in neon cyberpunk city, ultra realistic lighting"
+  },
+  {
+    "id": 2,
+    "category": "women",
+    "image": "https://picsum.photos/300/300?2",
+    "prompt": "Beautiful woman portrait, soft lighting, 8k cinematic"
+  },
+  {
+    "id": 3,
+    "category": "couple",
+    "image": "https://picsum.photos/300/300?3",
+    "prompt": "Romantic couple in sunset beach, cinematic vibe"
+  },
+  {
+    "id": 1,
+    "category": "men",
+    "image": "https://picsum.photos/300/300?1",
+    "prompt": "A stylish man in neon cyberpunk city, ultra realistic lighting"
+  },
+  {
+    "id": 2,
+    "category": "women",
+    "image": "https://picsum.photos/300/300?2",
+    "prompt": "Beautiful woman portrait, soft lighting, 8k cinematic"
+  },
+  {
+    "id": 3,
+    "category": "couple",
+    "image": "https://picsum.photos/300/300?3",
+    "prompt": "Romantic couple in sunset beach, cinematic vibe"
+  }
+]
